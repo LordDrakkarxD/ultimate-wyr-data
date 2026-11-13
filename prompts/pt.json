@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "revision": 1,
+  "language": "pt",
+  "prompts": [
+    {
+      "id": 1,
+      "category": "deep",
+      "text": "Saber exatamente quando você vai morrer"
+    },
+    {
+      "id": 2,
+      "category": "wholesome",
+      "text": "Fazer a melhor surpresa de aniversário de todas para <n>"
+    },
+    {
+      "id": 3,
+      "category": "funny",
+      "text": "Lutar contra 100 aspiradores robôs"
+    },
+    {
+      "id": 4,
+      "category": "nsfw",
+      "text": "Revelar sua fantasia mais constrangedora"
+    },
+    {
+      "id": 5,
+      "category": "extreme",
+      "text": "Passar um ano sozinho em uma ilha deserta"
+    },
+    {
+      "id": 6,
+      "category": "wildcard",
+      "text": "Ler mentes durante um dia"
+    },
+    {
+      "id": 7,
+      "category": "deep",
+      "text": "Descobrir o maior segredo do universo"
+    },
+    {
+      "id": 8,
+      "category": "wholesome",
+      "text": "Passar um dia perfeito com <n> e <n>"
+    },
+    {
+      "id": 9,
+      "category": "funny",
+      "text": "Sempre falar rimando"
+    },
+    {
+      "id": 10,
+      "category": "nsfw",
+      "text": "Ter seu histórico privado de pesquisas lido em voz alta"
+    },
+    {
+      "id": 11,
+      "category": "extreme",
+      "text": "Escalar a montanha mais alta sem guia"
+    },
+    {
+      "id": 12,
+      "category": "wildcard",
+      "text": "Se teletransportar uma vez por dia"
+    }
+  ]
+}

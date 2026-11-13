@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "revision": 1,
+  "language": "en",
+  "prompts": [
+    {
+      "id": 1,
+      "category": "deep",
+      "text": "Know exactly when you will die"
+    },
+    {
+      "id": 2,
+      "category": "wholesome",
+      "text": "Give <n> the best birthday surprise ever"
+    },
+    {
+      "id": 3,
+      "category": "funny",
+      "text": "Fight 100 roombas"
+    },
+    {
+      "id": 4,
+      "category": "nsfw",
+      "text": "Reveal your most embarrassing fantasy"
+    },
+    {
+      "id": 5,
+      "category": "extreme",
+      "text": "Spend a year alone on a deserted island"
+    },
+    {
+      "id": 6,
+      "category": "wildcard",
+      "text": "Read minds for a day"
+    },
+    {
+      "id": 7,
+      "category": "deep",
+      "text": "Learn the biggest secret in the universe"
+    },
+    {
+      "id": 8,
+      "category": "wholesome",
+      "text": "Spend a perfect day with <n> and <n>"
+    },
+    {
+      "id": 9,
+      "category": "funny",
+      "text": "Always speak in rhymes"
+    },
+    {
+      "id": 10,
+      "category": "nsfw",
+      "text": "Have your private search history read aloud"
+    },
+    {
+      "id": 11,
+      "category": "extreme",
+      "text": "Climb the tallest mountain with no guide"
+    },
+    {
+      "id": 12,
+      "category": "wildcard",
+      "text": "Teleport once every day"
+    }
+  ]
+}
